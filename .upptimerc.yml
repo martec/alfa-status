@@ -15,7 +15,7 @@ status-website:
   cname: status.anime-forum.info
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/martec/alfa-status/master/assets/alfalogo.png
-  name: Anime-Fórum Status Site
+  name:
   introTitle: Últimos status
   introMessage: Site para anunciar qualquer manutenção e o status atual do Anime-Fórum
   navbar:
