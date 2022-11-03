@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Anime Fórum",
+    "url": "https://anime-forum.info",
+    "icon": "https://icons.duckduckgo.com/ip3/anime-forum.info.ico",
+    "slug": "anime-forum",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 275,
+    "timeDay": 203,
+    "timeWeek": 275,
+    "timeMonth": 275,
+    "timeYear": 275,
+    "dailyMinutesDown": {}
+  }
+]
