@@ -14,7 +14,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.anime-forum.info
   name: Anime-Fórum Status Site
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/martec/alfa-status/master/assets/alfalogo.png
   favicon: https://raw.githubusercontent.com/martec/alfa-status/master/assets/favicon.ico
   introTitle: Últimos status
