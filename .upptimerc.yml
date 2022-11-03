@@ -16,6 +16,7 @@ status-website:
   name: Anime-Fórum Status Site
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/martec/alfa-status/master/assets/alfalogo.png
+  favicon: https://raw.githubusercontent.com/martec/alfa-status/master/assets/favicon.ico
   introTitle: Últimos status
   introMessage: Site para anunciar qualquer manutenção e o status atual do Anime-Fórum
   navbar:
