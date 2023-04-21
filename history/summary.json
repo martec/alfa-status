@@ -4,7 +4,7 @@
     "url": "https://anime-forum.info",
     "icon": "https://icons.duckduckgo.com/ip3/anime-forum.info.ico",
     "slug": "anime-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 285,
     "timeYear": 381,
     "dailyMinutesDown": {
+      "2023-04-21": 0,
       "2023-03-14": 796,
       "2023-03-13": 455,
       "2022-12-21": 227
