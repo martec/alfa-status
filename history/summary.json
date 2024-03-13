@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/anime-forum.info.ico",
     "slug": "anime-forum",
     "status": "up",
-    "uptime": "95.63%",
+    "uptime": "95.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.12%",
     "time": 367,
-    "timeDay": 388,
-    "timeWeek": 264,
-    "timeMonth": 316,
-    "timeYear": 345,
+    "timeDay": 404,
+    "timeWeek": 293,
+    "timeMonth": 315,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2023-11-01": 398,
       "2023-10-31": 1440,
@@ -38,8 +38,7 @@
       "2023-10-13": 1440,
       "2023-10-12": 1202,
       "2023-04-22": 71,
-      "2023-04-21": 627,
-      "2023-03-14": 796
+      "2023-04-21": 627
     }
   }
 ]
